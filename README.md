@@ -1,5 +1,7 @@
 # React + Vite
 
+#Para rodar o projeto na maquina execute o os comando "npm run backend" e "npm run dev" em dois terminais diferentes no VS Code.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
