@@ -1,0 +1,14 @@
+.btn{
+    background-color: #fb2;
+    color: #222;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.5s;
+
+} .btn:hover{
+    color: #fb2;
+    background-color: #222;
+    padding: 10px 16px;
+}

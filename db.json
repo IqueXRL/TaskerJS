@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": "7e19",
+      "name": "Wireframe teste",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5e15",
+      "name": "Projeto Eccomerce teste",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 650,
+      "services": [
+        {
+          "name": "Wireframe",
+          "cost": "100",
+          "description": "Wireframe para eccomerce",
+          "id": "06693c34-0bd1-44b8-bfdf-ad6d65e64ea7"
+        },
+        {
+          "name": "Contratar design",
+          "cost": "500",
+          "description": "Vai desenvolver o Wirefram",
+          "id": "da2de036-fbf4-48e0-9bf6-83d055ea7c36"
+        },
+        {
+          "name": "Atendimento",
+          "cost": "50",
+          "description": "Acompanhar e atualizar projetos",
+          "id": "36756b3f-8bd9-49a8-880a-d10bc5394056"
+        }
+      ]
+    },
+    {
+      "id": "1129",
+      "name": "Ter um membro dedicado",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Agregar nossa equipe de Dev",
+          "cost": "3000",
+          "description": "Contratar um Dev Jr",
+          "id": "83fd2e26-0d76-48ea-8e77-893b90d8098b"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Planejamento"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    }
+  ]
+}

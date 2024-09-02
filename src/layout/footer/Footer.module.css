@@ -1,0 +1,27 @@
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 16px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.socialList{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 16px;
+}
+
+.socialList li:hover{
+    color: #fb3;
+}
+
+.socialList svg{
+    font-size: 28px;
+    cursor: pointer;
+}
+
+
